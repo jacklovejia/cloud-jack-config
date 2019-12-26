@@ -1,4 +1,4 @@
-jack: hhhh
+jack: jack
 server:
   port: 8788
 eureka:
